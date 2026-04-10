@@ -1,2 +1,3 @@
 print("HI")
-priint("HELooo")
+print("HELooo")
+print("mahe")
